@@ -1,0 +1,16 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+#define FINAL_PWM 0
+#define FINAL_DELAY 20000
+
+#define RESOLUCAO_ENCODER 29
+#define DISTANCIA_ENTRE_RODAS 0.15
+#define NUM_SENSORS 10
+#define ARRAY_CENTER_POSITION 4000
+#define USE_WHITE_LINE 1
+#define LINE_VALUE 300
+#define PWM_MAX 2.3
+#define NAO_FREIA 100
+
+#endif
